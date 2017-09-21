@@ -1,0 +1,7 @@
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuoteInfo\bin\Debug\RTStockQuoteInfo.dll
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuoteInfo\bin\Debug\RTStockQuoteInfo.pdb
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuoteInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuoteInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuoteInfo\obj\Debug\RTStockQuoteInfo.csprojResolveAssemblyReference.cache
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuoteInfo\obj\Debug\RTStockQuoteInfo.dll
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuoteInfo\obj\Debug\RTStockQuoteInfo.pdb

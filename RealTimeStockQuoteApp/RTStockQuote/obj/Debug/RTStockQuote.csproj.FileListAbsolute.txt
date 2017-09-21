@@ -1,0 +1,17 @@
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\bin\Debug\RTStockQuote.exe.config
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\bin\Debug\RTStockQuote.exe
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\bin\Debug\RTStockQuote.pdb
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\RTStockQuote.csprojResolveAssemblyReference.cache
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\MainWindow.baml
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\MainWindow.g.cs
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\App.g.cs
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\RTStockQuote_MarkupCompile.cache
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\RTStockQuote.g.resources
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\RTStockQuote.Properties.Resources.resources
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\RTStockQuote.csproj.GenerateResource.Cache
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\RTStockQuote.exe
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\obj\Debug\RTStockQuote.pdb
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\bin\Debug\Newtonsoft.Json.dll
+c:\users\kk\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\bin\Debug\RTStockQuoteInfo.dll
+C:\Users\KK\documents\visual studio 2012\Projects\RTStockQuote\RTStockQuote\bin\Debug\RTStockQuoteInfo.pdb
